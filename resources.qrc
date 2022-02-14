@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ChartView.qml</file>
+        <file>images/main.png</file>
+        <file>images/processmap.png</file>
+        <file>popup_menu_data.qml</file>
+        <file>images/menu_data.png</file>
+        <file>popup_menu_calibration.qml</file>
+        <file>images/menu_calibration.png</file>
+        <file>images/menu_calibraion_cal.png</file>
+        <file>images/menu_calibration_robot.png</file>
+        <file>images/popup_menu_calibration_tab_empty.png</file>
+        <file>PasswordCheck.qml</file>
+        <file>Keypad.qml</file>
+        <file>YesOrNo.qml</file>
+        <file>popup_operationCheck.qml</file>
+        <file>popup_setting.qml</file>
+        <file>images/menu_setting_cleaning.png</file>
+        <file>images/menu_setting_furnace.png</file>
+        <file>images/menu_setting_sampling.png</file>
+        <file>images/menu_setting_total.png</file>
+        <file>popup_tms.qml</file>
+        <file>images/menu_system_info.png</file>
+        <file>images/menu_tms_analog.png</file>
+        <file>images/menu_tms_data.png</file>
+        <file>images/menu_tms_log.png</file>
+        <file>popup_systemInfo.qml</file>
+    </qresource>
+</RCC>
